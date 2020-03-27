@@ -1,6 +1,6 @@
 # hello-world
-just a test
+Just a test
 
-well here we go
+Well here we go
 
-my first comment on github.
+My first comment on github.
